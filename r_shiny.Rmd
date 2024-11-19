@@ -1,0 +1,9 @@
+---
+title: "R Shiny"
+output: github_document
+---
+
+```{r}
+shiny::runExample(01_hello)
+```
+
